@@ -1,4 +1,5 @@
-# Dinosaur-JS-Bot
+# Dinosaur-JS-Bot [![Run on Repl.it](https://repl.it/badge/github/F0RIS/Dinosaur-JS-Bot)]
+(https://repl.it/github/F0RIS/Dinosaur-JS-Bot)
 
 To test it, open in browser chrome://dino page, start the game, open dev console and copy paste there all code from bot.js file.
 
